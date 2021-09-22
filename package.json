@@ -1,0 +1,14 @@
+{
+  "name": "weatheapp",
+  "version": "1.0.0",
+  "description": "A Simple Weather app get update with your weather",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sonai Barua",
+  "license": "ISC",
+  "dependencies": {
+    "requests": "^0.3.0"
+  }
+}
